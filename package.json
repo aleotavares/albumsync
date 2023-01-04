@@ -1,0 +1,25 @@
+{
+  "name": "albumsync",
+  "version": "1.0.0",
+  "description": "Photo Albums Syncronizator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aleotavares/albumsync.git"
+  },
+  "keywords": [
+    "node",
+    "facebook",
+    "photo",
+    "album"
+  ],
+  "author": "Alexandre Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleotavares/albumsync/issues"
+  },
+  "homepage": "https://github.com/aleotavares/albumsync#readme"
+}
